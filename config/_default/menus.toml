@@ -5,11 +5,16 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#home"
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "People"
+  url = "#people"
+  weight = 35
+
+[[main]]
+  name = "News"
   url = "#posts"
   weight = 20
 
@@ -23,6 +28,16 @@
   url = "#featured"
   weight = 40
 
+#[[main]]
+#  name = "Courses"
+#  url = "courses/"
+#  weight = 50
+
+[[main]]
+  name = "Openings"
+  url = "#openings"
+  weight = 55
+
 [[main]]
   name = "Contact"
   url = "#contact"
@@ -34,3 +49,9 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+# just added this to try to link to McGill
+[[main_right]]
+    name="McGill University"
+    url="http://www.mcgill.ca"
+    weight = 80
