@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Rania Gamal"
+title: "Rania Gamal"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: McGill University
-  url: "www.mcgill.ca"
+  url: "https://www.mcgill.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Rania Gamal is a PhD Candidate in the Electrical and Computer Engineering department at McGill University. Her research focuses on designing broadband silicon photonic biosensors for the purpose of creating point-of-care devices. Previously, she worked as a research assistant at the Center for Nanoelectronics and Devices at the Zewail City for Science and Technology in Cairo, Egypt, where she has done research on sensing using silicon-nanowire based structures, as well as  mid-infrared sensing using silicon plasmonics. Rania was also the teaching assistant for the course, “Thermodynamics of Computing” at McGill University

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Padideh Mohammadyousef"
+title: "Padideh Mohammadyousef"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations: 
 - name: McGill University
-  url: "www.mcgill.ca"
+  url: "https://www.mcgill.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Padideh received her M.Eng. in Electrical Engineering-Photonics from Boston University. She joined Photonic Biosensing Lab at McGill University in 2017 and is currently pursuing her PhD in Electrical Engineering. Her research focuses on real-time detection of plasmonically amplified DNA via a miniature photonic Polymerase Chain Reaction (PCR) system for point-of-care (POC) applications.

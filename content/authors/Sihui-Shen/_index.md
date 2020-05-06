@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Sihui Shen"
+title: "Sihui Shen"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: McGill University
-  url: "www.mcgill.ca"
+  url: "https://www.mcgill.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Sihui received her BEng in the Department of Electrical and Computer Engineering at McGill University. She is currently pursuing her Master in the photonic biosensing lab. Her research interests include optical biosensing and integrated optics and nanophotonics.

@@ -2,7 +2,12 @@
 title: "DPSK Modulation With a Dual-Drive Silicon Photonic Loop-Mirror Modulator"
 date: 2019-01-01
 publishDate: 2020-04-02T13:16:54.955439Z
-authors: ["F. Soltani", "D. Patel", "M. Menard", "D. V. Plant", "A. G. Kirk"]
+authors: 
+- F. Soltani
+- D. Patel
+- M. Menard
+- D. V. Plant
+- admin
 publication_types: ["2"]
 abstract: ""
 featured: false

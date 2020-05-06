@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Fatma Oudjedi"
+title: "Fatma Oudjedi"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: McGill University
-  url: "www.mcgill.ca"
+  url: "https://www.mcgill.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Fatma received her B. Sc. degree in Physics from McGill University in 2016. She is currently pursuing her graduate studies under the supervision of Prof. Andrew Kirk. Her research focuses on photo-thermal therapy using near-infrared absorbing hybrid nanoparticles. 

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Andrew Kirk
+title: Andrew Kirk
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role: Professor of Electrical and Computer Engineering
 # Organizations/Affiliations
 organizations:
 - name: McGill University
-  url: "www.mcgill.ca"
+  url: "https://www.mcgill.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optical biosensors, integrated photonics and optical nanostructures.

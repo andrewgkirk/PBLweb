@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Mamoun Benchekroun"
+title: "Mamoun Benchekroun"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: McGill University, Department of Electrical and Computer Engineering
-  url: "www.mcgill.ca/ece"
+  url: "https://www.mcgill.ca/ece/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mamoun received his B.Eng in the Department of Electrical Engineering at McGill University. He has continued his studies and is currently pursuing his MS at McGill University under the supervision of Professor Andrew Kirk. His research interests include optimization of a thermocycling setup for fast PCR with real time monitoring using laser based heating and fluorescence.

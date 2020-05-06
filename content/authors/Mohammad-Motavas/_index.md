@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Mohammad Motavas"
+title: "Mohammad Motavas"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: McGill University
-  url: "www.mcgill.ca"
+  url: "https://www.mcgill.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mohammad received his BSc in Electrical Engineering at Shiraz University of Technology (sutech). He has continued his studies and received his MSc in Electrical Engineering at Shiraz University. His MSc thesis was about plasmonic nano-lasers or spasers based on an arrayed of coupled nanorods. Now he is pursuing his PhD in our lab at the Photonic Systems Group (PSG) of McGill University. His research includes integrated biosensing systems based on microcavities and RF-modulated optical signals.
