@@ -2,7 +2,12 @@
 title: "Real time label-free monitoring of plasmonic polymerase chain reaction products"
 date: 2019-01-01
 publishDate: 2020-04-02T13:16:54.977568Z
-authors: ["G. Uchehara", "A. G. Kirk", "M. Trifiro", "M. Paliouras", "P. Mohammadyousef"]
+authors: 
+- G. Uchehara
+- admin
+- M. Trifiro
+- M. Paliouras
+- Padideh Mohammadyousef
 publication_types: ["1"]
 abstract: ""
 featured: false
