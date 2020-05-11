@@ -2,7 +2,11 @@
 title: "Improved self-referenced biosensing with emphasis on multiple-resonance nanorod sensors"
 date: 2017-01-01
 publishDate: 2020-04-02T13:16:54.192606Z
-authors: ["A. Abumazwed", "W. Kubo", "T. Tanaka", "A. G. Kirk"]
+authors: 
+- A. Abumazwed
+- W. Kubo
+- T. Tanaka
+- admin
 publication_types: ["2"]
 abstract: ""
 featured: false

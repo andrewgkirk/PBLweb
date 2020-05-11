@@ -2,7 +2,11 @@
 title: "Improved method for estimating adlayer thickness and bulk RI change for gold nanocrescent sensors"
 date: 2018-01-01
 publishDate: 2020-04-02T13:16:54.215065Z
-authors: ["A. Abumazwed", "W. Kubo", "T. Tanaka", "A. G. Kirk"]
+authors: 
+- A. Abumazwed
+- W. Kubo
+- T. Tanaka
+- admin
 publication_types: ["2"]
 abstract: ""
 featured: true
