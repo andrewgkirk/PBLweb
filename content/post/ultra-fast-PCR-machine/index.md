@@ -28,4 +28,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["plasmonic-pcr"]
 ---
-We are collaborating with [Pronto Medical Technologies](https://prontomedtech.com) and [Nanopartz Inc](https://www.nanopartz.com/) to commercialise our plasmonic PCR technology to create an [ultrafast PCR machine](https://www.nanopartz.com/plasmonic-pcr.asp). This will target the detection of COVID-19 RNA.
+We are collaborating with [Pronto Medical Technologies](https://prontomedtech.com) and [Nanopartz Inc](https://www.nanopartz.com/) to commercialise our plasmonic PCR technology to create an [ultrafast PCR machine](https://www.nanopartz.com/plasmonic-pcr.asp). By heating a conventional PCR solution that contains [Gold Nanoparticle Reagents](https://www.nanopartz.com) with a compact laser we are able to rapidly and efficiently heat the solution, without the need for bulky thermoelectric heaters. This will target the detection of COVID-19 RNA.
