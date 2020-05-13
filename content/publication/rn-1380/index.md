@@ -3,7 +3,7 @@ title: "Ultrafast plasmonic and real-time label-free polymerase chain reaction"
 date: 2020-01-01
 publishDate: 2020-04-02T13:16:54.708404Z
 authors: 
-- Padideh Mohammadyousef
+- Padideh-Mohammadyousef
 - M. Paliouras
 - M. Trifiro
 - admin

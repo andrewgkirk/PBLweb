@@ -2,7 +2,11 @@
 title: "Towards Accurate Lspr Biosensors Based on the Projection Method: A Direct Measurement for Refractive Index"
 date: 2017-01-01
 publishDate: 2020-04-02T13:16:54.124604Z
-authors: ["A. Abumazwed", "A. G. Kirk", "W. Kubo", "T. Tanaka"]
+authors: 
+- A. Abumazwed
+- admin
+- W. Kubo
+- T. Tanaka
 publication_types: ["1"]
 abstract: ""
 featured: false

@@ -2,7 +2,10 @@
 title: "Integrated silicon photonic reflective modulator for passive optical networks"
 date: 2017-01-01
 publishDate: 2020-04-02T13:16:54.908575Z
-authors: ["F. Soltani", "M. Menard", "A. G. Kirk"]
+authors: 
+- F. Soltani
+- M. Menard
+- admin
 publication_types: ["1"]
 abstract: ""
 featured: false

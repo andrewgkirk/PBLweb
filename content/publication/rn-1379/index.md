@@ -3,7 +3,7 @@ title: "Ultrafast VCSEL-based Plasmonic Polymerase Chain Reaction with Real-time
 date: 2020-01-01
 publishDate: 2020-04-02T13:16:54.724024Z
 authors: 
-- Padideh Mohammadyousef
+- Padideh-Mohammadyousef
 - G. Uchehara
 - M. Paliouras
 - M. Trifiro

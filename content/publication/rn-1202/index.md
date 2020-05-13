@@ -2,7 +2,10 @@
 title: "Real-time measurement of complex refractive indices with surface plasmon resonance"
 date: 2017-01-01
 publishDate: 2020-04-02T13:16:54.608161Z
-authors: ["S. Filion-Cote", "M. Tabrizian", "A. G. Kirk"]
+authors: 
+- S. Filion-Cote
+- M. Tabrizian
+- A. G. Kirk
 publication_types: ["2"]
 abstract: ""
 featured: false
