@@ -30,8 +30,8 @@ title = "Research Interests"  # Add a page title.
   padding = ["0", "0", "0", "0"]
 
 +++  
-- **Plasmonically driven polymerase chain reaction (PCR)**
-- **Resonant cavity optical biosensors**
+- **Plasmonically driven polymerase chain reaction (PCR) for DNA and RNA detection**
+- **Resonant microcavity optical biosensors**
 - **Optical nanoparticle design for photothermal cancer therapy**
 - **SPR and LSPR optical biosensors**
 
