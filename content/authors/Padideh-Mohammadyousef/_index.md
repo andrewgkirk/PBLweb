@@ -4,7 +4,7 @@ title: "Padideh Mohammadyousef"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Padideh Mohammadyousef"
+- Name "Padideh-Mohammadyousef"
 
 # Is this the primary user of the site?
 superuser: false
