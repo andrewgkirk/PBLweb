@@ -46,7 +46,7 @@ url_video: ""
 
  Current research efforts include extending the design to a multichannel system, developing a cartridge-based approach and developing a rapid test for the SARS-CoV-2 virus, responsible for COVID-19.
 
- The intellectual property generated from this project has been licenced to a McGill start-up company [Pronto Biomedical Devices](prontomedtech.com).
+ The intellectual property generated from this project has been licenced for commercial development.
 
  **Students currently involved in this project:**
  - {{% mention "Padideh-Mohammadyousef" %}}
