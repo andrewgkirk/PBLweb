@@ -97,7 +97,7 @@ directions = "My office is McConnell Engineering #809. Enter the McConnell Build
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["I am currently on sabbatical leave. Regular office hours will resume in September"]
+office_hours = ["Due to the current pandemic I am on campus sporadically. Regular office hours will resume in Winter 2022"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
